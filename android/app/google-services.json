@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9623313728",
+    "project_id": "fir-crud-ee20b",
+    "storage_bucket": "fir-crud-ee20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9623313728:android:9d604e571022ac9e432ea5",
+        "android_client_info": {
+          "package_name": "com.universidadtecologicatucuman.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9623313728-b0du5f77b09j58idn2b0l1fjui12d3l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqGNCR80epQB1Z62DYwsq7gl_sXqQ0IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9623313728-b0du5f77b09j58idn2b0l1fjui12d3l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
